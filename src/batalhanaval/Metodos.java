@@ -97,7 +97,6 @@ public class Metodos {
 		}else if(pontuacao > 1){
 			System.out.println("\n\nFIM DE JOGO \nPARABÉNS!!\nvocê afundou "+pontuacao+" navios!!");
 		}
-		leia.close();
 	}	
 
 }
